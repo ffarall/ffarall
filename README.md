@@ -1,4 +1,36 @@
-### Hi there 👋
+## Hi, I'm Facundo! 👋
+
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Electronics+Engineering+Student;Techaholic;Life+explorer)](https://github.com/ffarall)
+
+Passionate about programming and electronics, I love being up-to-date with the latest trends in the tech world, and constantly learn new tools. \
+Did some work on cryptocurrency arbitrage with python, an AR mobile app for creating 3D sound in Unity (might open the source soon) and right now I'm developing a [glove for VR](https://github.com/Project-GraVR) (Going public soon)
+
+## 📕 Some of the projects I'm proud of
+<!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+<p align="left">
+    <a href="https://github.com/Lab-de-microprocesadores-G1/tpf-mp3-player"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Lab-de-microprocesadores-G1&repo=tpf-mp3-player&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats"></a>
+    <a href="https://github.com/grupo-tc-volcan/filters-tool"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grupo-tc-volcan&repo=filters-tool&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats"></a>
+    <a href="https://github.com/ffarall/TP_Final_Catan"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ffarall&repo=TP_Final_Catan&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats"></a>
+</p>
+
+## 🙋‍♂️ Connect with me 
+<p align="center">
+<a href="https://www.linkedin.com/in/facundo-david-farall-5614311b4/"><img alt="LinkedIn" title="Twitter" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+</p>
+
+## 💻 GitHub Profile Stats
+\
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=nicotrozzo&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+
+## 🔥 Streak stats
+\
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nicotrozzo&theme=monokai-metallian&hide_border=true"/>
+</a>
+
+
+<!-- README inspired mainly in https://github.com/DenverCoder1/DenverCoder1 -->
 
 <!--
 **ffarall/ffarall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
