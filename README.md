@@ -14,7 +14,6 @@ Did some work on cryptocurrency arbitrage with python, an AR mobile app for crea
     <a href="https://github.com/Lab-de-microprocesadores-G1/tpf-mp3-player"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Lab-de-microprocesadores-G1&repo=tpf-mp3-player&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats"></a>
     <a href="https://github.com/grupo-tc-volcan/filters-tool"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grupo-tc-volcan&repo=filters-tool&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats"></a>
     <a href="https://github.com/ffarall/TP_Final_Catan"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ffarall&repo=TP_Final_Catan&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats"></a>
-</p>
     <a href="https://github.com/ffarall/uniswapv2-arbitrage-bot"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ffarall&repo=uniswapv2-arbitrage-bot&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats"></a>
 </p>
 
