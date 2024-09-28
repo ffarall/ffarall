@@ -1,10 +1,10 @@
 ## Hi, I'm Facundo! 👋
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Electronics+Engineering+Student;Techaholic;Life+explorer)](https://github.com/ffarall)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Electronics+Engineer;Protocol+Designer;Curious+Explorer)](https://github.com/ffarall)
 
-Passionate about programming and electronics, I love being up-to-date with the latest trends in the tech world, and constantly learn new tools. \
-Did some work on cryptocurrency arbitrage with python, an AR mobile app for creating 3D sound in Unity (might open the source soon) and right now I'm developing a [glove for VR](https://github.com/Project-GraVR) (Going public soon)
+Passionate designer and developer, I love being up-to-date with the latest trends in the tech world, and constantly learn new tools. \
+Some of the projects I'm proud of from my student era are an AR mobile app for creating 3D sound in Unity, and my thesis, a glove to bring touch into XR experiences.
 
 ## 📕 Some of the projects I'm proud of
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
